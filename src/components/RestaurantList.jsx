@@ -43,7 +43,7 @@ const RestaurantList = () => {
                                     p: 3,
                                     display: 'flex',
                                     flexDirection: 'column',
-                                    // width: '100%',
+                                    // width: '100%',g
                                     gap: 1,
                                     '&:hover': {
                                         boxShadow: 4,
